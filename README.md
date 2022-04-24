@@ -4,7 +4,7 @@
 
 ![Design preview for the Fylo dark theme landing page challenge](./design/desktop-preview.jpg)
 
-This is a solution to the [Fylo dark theme landing page challenge as the first capstone project on SideHustle internship, cohort 5.](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd) This was designed by group 167.
+This is a solution to the [Fylo dark theme landing page challenge as the first capstone project on SideHustle internship, cohort 5.](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd) This was designed by group 167 members.
 
 ## Table of contents
 
@@ -31,7 +31,6 @@ This is a solution to the [Fylo dark theme landing page challenge as the first c
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Next.js](https://nextjs.org/) - React framework
 
 
 
